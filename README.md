@@ -82,7 +82,7 @@ The firewall monitors and filters all network traffic between the client machine
 Internal Network Name:
 
 ```
-LAN_NET
+INTNET
 ```
 
 ---
@@ -95,7 +95,7 @@ LAN_NET
 Network Name:
 
 ```
-LAN_NET
+INTNET
 ```
 
 This allows the Ubuntu client to communicate with the pfSense LAN interface.

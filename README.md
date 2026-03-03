@@ -219,30 +219,6 @@ This confirms that the firewall rule is functioning correctly.
 
 ---
 
-# 📷 Project Screenshots
-
-Include screenshots such as:
-
-* pfSense LAN configuration
-* Alias configuration
-* Firewall rule creation
-* Ubuntu client network configuration
-* Blocked website test
-* Firewall logs showing blocked traffic
-
-Example folder structure:
-
-```
-screenshots/
-│
-├── lan_configuration.png
-├── alias_configuration.png
-├── firewall_rule.png
-├── ubuntu_client_ip.png
-└── firewall_logs.png
-```
-
----
 
 # ✅ Results
 

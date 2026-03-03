@@ -89,7 +89,7 @@ LAN_NET
 
 ## Ubuntu Client VM
 
-* RAM: 1 GB
+* RAM: 2 GB
 * Network Adapter: Internal Network
 
 Network Name:

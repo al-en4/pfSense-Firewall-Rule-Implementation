@@ -233,9 +233,10 @@ This confirms that the firewall rule is functioning correctly.
 
 ![Firewall Rule Creation](screenshot/firewall_rule.png)
 
+
 ## Ubuntu Client 
 
-![Ubuntu Client](screenshot/Ubuntu_Clinet.png)
+![Ubuntu Client](screenshot/Ubuntu_Client.png)
 
 ## Firewall Logs
 

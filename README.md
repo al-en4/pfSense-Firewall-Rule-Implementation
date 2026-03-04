@@ -278,8 +278,3 @@ Possible improvements to this lab include:
 * Monitoring traffic using a SIEM platform
 
 ---
-
-# 👨‍💻 Author
-
-Cybersecurity Lab Project
-Firewall Rule Implementation using pfSense

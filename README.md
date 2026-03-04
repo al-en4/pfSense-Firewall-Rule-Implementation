@@ -219,15 +219,15 @@ This confirms that the firewall rule is functioning correctly.
 
 ---
 
-#screenshots
+# screenshots
 
-##pfSense Dashboard
+## pfSense Dashboard
 
 ![pfSense Dashboard]screenshot/VirtualBox_pfSense_03_03_2026_22_31_40.png
 
 
 
-
+---
 
 # ✅ Results
 

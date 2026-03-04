@@ -227,8 +227,19 @@ This confirms that the firewall rule is functioning correctly.
 
 ## Alias configuration
 
-![pfSense Dashboard](screenshot/alias_configuration.png)
+![Alias configuration](screenshot/alias_configuration.png)
 
+## Firewall Rule 
+
+![Firewall Rule Creation](screenshot/firewall_rule.png)
+
+## Ubuntu Client 
+
+![Ubuntu Client](screenshot/Ubuntu_Clinet.png)
+
+## Firewall Logs
+
+![Firewall logs](screenshot/firewall_logs.png)
 
 ---
 

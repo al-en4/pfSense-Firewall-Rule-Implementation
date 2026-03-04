@@ -242,6 +242,10 @@ This confirms that the firewall rule is functioning correctly.
 
 ![Firewall logs](screenshot/firewall_logs.png)
 
+## Blocked Website
+
+![Website Blocked](screenshot/blocked.png)
+
 ---
 
 # ✅ Results

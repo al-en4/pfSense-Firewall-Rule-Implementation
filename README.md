@@ -227,7 +227,7 @@ This confirms that the firewall rule is functioning correctly.
 
 ## Alias configuration
 
-![pfSense Dashboard](screenshot/)
+![pfSense Dashboard](screenshot/alias_configuration.png)
 
 
 ---

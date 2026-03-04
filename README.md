@@ -219,6 +219,13 @@ This confirms that the firewall rule is functioning correctly.
 
 ---
 
+#screenshots
+
+##pfSense Dashboard
+
+
+
+
 
 # ✅ Results
 

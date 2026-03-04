@@ -225,6 +225,9 @@ This confirms that the firewall rule is functioning correctly.
 
 ![pfSense Dashboard](screenshot/VirtualBox_pfSense_03_03_2026_22_31_40.png)
 
+## Alias configuration
+
+![pfSense Dashboard](screenshot/)
 
 
 ---
